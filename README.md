@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Talking-Ben4374
+- 👀 I’m interested in Nintendo games
+- 🌱 I’m currently learning Python
